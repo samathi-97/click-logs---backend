@@ -4,6 +4,7 @@ import com.clicklogs.taplogger.dto.TapLogRequest;
 import com.clicklogs.taplogger.model.TapLog;
 import com.google.cloud.firestore.Firestore;
 import org.springframework.stereotype.Service;
+import com.google.cloud.Timestamp;
 
 @Service
 public class TapLogService {
@@ -26,7 +27,8 @@ public class TapLogService {
                 request.getInterfaceType(),
                 request.getSessionId(),
                 request.getDevicePlatform(),
-                System.currentTimeMillis()
+                //System.currentTimeMillis()
+                Timestamp.now()
         );
 
         firestore.collection("tap_logs").add(tapLog).get();

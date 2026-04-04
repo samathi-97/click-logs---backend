@@ -1,4 +1,5 @@
 package com.clicklogs.taplogger.model;
+import com.google.cloud.Timestamp;
 
 public class TapLog {
 
@@ -9,13 +10,14 @@ public class TapLog {
     private String interfaceType;
     private String sessionId;
     private String devicePlatform;
-    private Long createdAt;
+    //private Long createdAt;
+    private Timestamp createdAt;
 
     public TapLog() {}
 
     public TapLog(Integer sequenceNumber, Long startTimestamp, Long endTimestamp,
                   Long durationMs, String interfaceType, String sessionId,
-                  String devicePlatform, Long createdAt) {
+                  String devicePlatform, Timestamp createdAt) {
 
         this.sequenceNumber = sequenceNumber;
         this.startTimestamp = startTimestamp;
@@ -48,6 +50,6 @@ public class TapLog {
     public String getDevicePlatform() { return devicePlatform; }
     public void setDevicePlatform(String devicePlatform) { this.devicePlatform = devicePlatform; }
 
-    public Long getCreatedAt() { return createdAt; }
-    public void setCreatedAt(Long createdAt) { this.createdAt = createdAt; }
+    public Timestamp getCreatedAt() { return createdAt; }
+    public void setCreatedAt(Timestamp createdAt) { this.createdAt = createdAt; }
 }

@@ -1,0 +1,3972 @@
+[
+  {
+    "createdAt": 1775131225927,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 34,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131206751,
+    "startTimestamp": 1775131206673
+  },
+  {
+    "createdAt": 1775133816903,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 31,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 59,
+    "endTimestamp": 1775133767156,
+    "startTimestamp": 1775133767097
+  },
+  {
+    "createdAt": 1775131220775,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 43,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131195860,
+    "startTimestamp": 1775131195757
+  },
+  {
+    "createdAt": 1775133811503,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 5,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 49,
+    "endTimestamp": 1775133762193,
+    "startTimestamp": 1775133762144
+  },
+  {
+    "createdAt": 1775131148318,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 28,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 110,
+    "endTimestamp": 1775131121298,
+    "startTimestamp": 1775131121188
+  },
+  {
+    "createdAt": 1775131133533,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 21,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 143,
+    "endTimestamp": 1775130878249,
+    "startTimestamp": 1775130878106
+  },
+  {
+    "createdAt": 1775131215475,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 2,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131188376,
+    "startTimestamp": 1775131188289
+  },
+  {
+    "createdAt": 1775133824286,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 21,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133778949,
+    "startTimestamp": 1775133778875
+  },
+  {
+    "createdAt": 1775133811203,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 4,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 54,
+    "endTimestamp": 1775133762008,
+    "startTimestamp": 1775133761954
+  },
+  {
+    "createdAt": 1775131132297,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 17,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 99,
+    "endTimestamp": 1775130877510,
+    "startTimestamp": 1775130877411
+  },
+  {
+    "createdAt": 1775131218076,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 22,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131191979,
+    "startTimestamp": 1775131191885
+  },
+  {
+    "createdAt": 1775131226787,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 42,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131208408,
+    "startTimestamp": 1775131208322
+  },
+  {
+    "createdAt": 1775133986765,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 64,
+    "endTimestamp": 1775133963929,
+    "startTimestamp": 1775133963865
+  },
+  {
+    "createdAt": 1775133813257,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 11,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 64,
+    "endTimestamp": 1775133763303,
+    "startTimestamp": 1775133763239
+  },
+  {
+    "createdAt": 1775133913026,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 18,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 95,
+    "endTimestamp": 1775133888752,
+    "startTimestamp": 1775133888657
+  },
+  {
+    "createdAt": 1775133827286,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 38,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133782638,
+    "startTimestamp": 1775133782556
+  },
+  {
+    "createdAt": 1775131222979,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131201751,
+    "startTimestamp": 1775131201665
+  },
+  {
+    "createdAt": 1775134017102,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 13,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 63,
+    "endTimestamp": 1775133994587,
+    "startTimestamp": 1775133994524
+  },
+  {
+    "createdAt": 1775133829109,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 49,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 66,
+    "endTimestamp": 1775133784824,
+    "startTimestamp": 1775133784758
+  },
+  {
+    "createdAt": 1775131222469,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131200867,
+    "startTimestamp": 1775131200765
+  },
+  {
+    "createdAt": 1775133814760,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 18,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 38,
+    "endTimestamp": 1775133764611,
+    "startTimestamp": 1775133764573
+  },
+  {
+    "createdAt": 1775131127076,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 214,
+    "endTimestamp": 1775130874445,
+    "startTimestamp": 1775130874231
+  },
+  {
+    "createdAt": 1775131129197,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 123,
+    "endTimestamp": 1775130875557,
+    "startTimestamp": 1775130875434
+  },
+  {
+    "createdAt": 1775133868031,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 18,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 62,
+    "endTimestamp": 1775133843799,
+    "startTimestamp": 1775133843737
+  },
+  {
+    "createdAt": 1775133821790,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133775237,
+    "startTimestamp": 1775133775172
+  },
+  {
+    "createdAt": 1775131153294,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 48,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 91,
+    "endTimestamp": 1775131124860,
+    "startTimestamp": 1775131124769
+  },
+  {
+    "createdAt": 1775131132956,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 19,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 134,
+    "endTimestamp": 1775130877875,
+    "startTimestamp": 1775130877741
+  },
+  {
+    "createdAt": 1775133826837,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 36,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 58,
+    "endTimestamp": 1775133782247,
+    "startTimestamp": 1775133782189
+  },
+  {
+    "createdAt": 1775133822252,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133775955,
+    "startTimestamp": 1775133775890
+  },
+  {
+    "createdAt": 1775131216428,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 9,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 93,
+    "endTimestamp": 1775131189644,
+    "startTimestamp": 1775131189551
+  },
+  {
+    "createdAt": 1775133827451,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 39,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 75,
+    "endTimestamp": 1775133782848,
+    "startTimestamp": 1775133782773
+  },
+  {
+    "createdAt": 1775133815217,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 21,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 56,
+    "endTimestamp": 1775133765222,
+    "startTimestamp": 1775133765166
+  },
+  {
+    "createdAt": 1775133864135,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133841314,
+    "startTimestamp": 1775133841219
+  },
+  {
+    "createdAt": 1775131129981,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 120,
+    "endTimestamp": 1775130876167,
+    "startTimestamp": 1775130876047
+  },
+  {
+    "createdAt": 1775131139500,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 44,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 119,
+    "endTimestamp": 1775130882477,
+    "startTimestamp": 1775130882358
+  },
+  {
+    "createdAt": 1775134016803,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 12,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 62,
+    "endTimestamp": 1775133994403,
+    "startTimestamp": 1775133994341
+  },
+  {
+    "createdAt": 1775133810903,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 3,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 57,
+    "endTimestamp": 1775133761817,
+    "startTimestamp": 1775133761760
+  },
+  {
+    "createdAt": 1775131152597,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 45,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 93,
+    "endTimestamp": 1775131124328,
+    "startTimestamp": 1775131124235
+  },
+  {
+    "createdAt": 1775131139263,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 43,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 122,
+    "endTimestamp": 1775130882298,
+    "startTimestamp": 1775130882176
+  },
+  {
+    "createdAt": 1775131136726,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 33,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 126,
+    "endTimestamp": 1775130880477,
+    "startTimestamp": 1775130880351
+  },
+  {
+    "createdAt": 1775131225403,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 29,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131205837,
+    "startTimestamp": 1775131205734
+  },
+  {
+    "createdAt": 1775131218452,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 25,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131192548,
+    "startTimestamp": 1775131192454
+  },
+  {
+    "createdAt": 1775131224139,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 19,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131203911,
+    "startTimestamp": 1775131203810
+  },
+  {
+    "createdAt": 1775133912271,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 97,
+    "endTimestamp": 1775133888187,
+    "startTimestamp": 1775133888090
+  },
+  {
+    "createdAt": 1775131226577,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 40,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131207855,
+    "startTimestamp": 1775131207754
+  },
+  {
+    "createdAt": 1775133824940,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 25,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 72,
+    "endTimestamp": 1775133780003,
+    "startTimestamp": 1775133779931
+  },
+  {
+    "createdAt": 1775133863496,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133840864,
+    "startTimestamp": 1775133840769
+  },
+  {
+    "createdAt": 1775131220971,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 44,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131196048,
+    "startTimestamp": 1775131195946
+  },
+  {
+    "createdAt": 1775133870538,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 26,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775133845315,
+    "startTimestamp": 1775133845236
+  },
+  {
+    "createdAt": 1775131146850,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 22,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 123,
+    "endTimestamp": 1775131120255,
+    "startTimestamp": 1775131120132
+  },
+  {
+    "createdAt": 1775131142743,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 5,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 132,
+    "endTimestamp": 1775131117237,
+    "startTimestamp": 1775131117105
+  },
+  {
+    "createdAt": 1775131218964,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 29,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775131193319,
+    "startTimestamp": 1775131193240
+  },
+  {
+    "createdAt": 1775133825298,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 27,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133780528,
+    "startTimestamp": 1775133780455
+  },
+  {
+    "createdAt": 1775131137514,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 36,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 90,
+    "endTimestamp": 1775130881009,
+    "startTimestamp": 1775130880919
+  },
+  {
+    "createdAt": 1775131221970,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 49,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775131196941,
+    "startTimestamp": 1775131196846
+  },
+  {
+    "createdAt": 1775131219627,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 35,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131194392,
+    "startTimestamp": 1775131194290
+  },
+  {
+    "createdAt": 1775131152821,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 46,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 134,
+    "endTimestamp": 1775131124517,
+    "startTimestamp": 1775131124383
+  },
+  {
+    "createdAt": 1775131216817,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 12,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 117,
+    "endTimestamp": 1775131190197,
+    "startTimestamp": 1775131190080
+  },
+  {
+    "createdAt": 1775133822805,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 40,
+    "endTimestamp": 1775133776674,
+    "startTimestamp": 1775133776634
+  },
+  {
+    "createdAt": 1775134015168,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 6,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 45,
+    "endTimestamp": 1775133993303,
+    "startTimestamp": 1775133993258
+  },
+  {
+    "createdAt": 1775131137286,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 35,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 149,
+    "endTimestamp": 1775130880852,
+    "startTimestamp": 1775130880703
+  },
+  {
+    "createdAt": 1775133823687,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 17,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133777974,
+    "startTimestamp": 1775133777900
+  },
+  {
+    "createdAt": 1775133820023,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 47,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 77,
+    "endTimestamp": 1775133770497,
+    "startTimestamp": 1775133770420
+  },
+  {
+    "createdAt": 1775131218184,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 23,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131192161,
+    "startTimestamp": 1775131192074
+  },
+  {
+    "createdAt": 1775134016407,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 10,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133994020,
+    "startTimestamp": 1775133993974
+  },
+  {
+    "createdAt": 1775131135671,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 29,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 140,
+    "endTimestamp": 1775130879758,
+    "startTimestamp": 1775130879618
+  },
+  {
+    "createdAt": 1775133909337,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 81,
+    "endTimestamp": 1775133886005,
+    "startTimestamp": 1775133885924
+  },
+  {
+    "createdAt": 1775118945642,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 20,
+    "sessionId": "sess_002",
+    "devicePlatform": "PC",
+    "durationMs": 200,
+    "endTimestamp": 1711951000200,
+    "startTimestamp": 1711951000000
+  },
+  {
+    "createdAt": 1775131218854,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 28,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131193146,
+    "startTimestamp": 1775131193052
+  },
+  {
+    "createdAt": 1775131134414,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 24,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 142,
+    "endTimestamp": 1775130878813,
+    "startTimestamp": 1775130878671
+  },
+  {
+    "createdAt": 1775133868339,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 19,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 63,
+    "endTimestamp": 1775133843965,
+    "startTimestamp": 1775133843902
+  },
+  {
+    "createdAt": 1775131150076,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 35,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131122545,
+    "startTimestamp": 1775131122451
+  },
+  {
+    "createdAt": 1775131138013,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 38,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 107,
+    "endTimestamp": 1775130881370,
+    "startTimestamp": 1775130881263
+  },
+  {
+    "createdAt": 1775133911090,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 95,
+    "endTimestamp": 1775133887435,
+    "startTimestamp": 1775133887340
+  },
+  {
+    "createdAt": 1775133908891,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 94,
+    "endTimestamp": 1775133885601,
+    "startTimestamp": 1775133885507
+  },
+  {
+    "createdAt": 1775133866098,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775133842765,
+    "startTimestamp": 1775133842686
+  },
+  {
+    "createdAt": 1775134013944,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 1,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 62,
+    "endTimestamp": 1775133992320,
+    "startTimestamp": 1775133992258
+  },
+  {
+    "createdAt": 1775131139956,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 46,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 142,
+    "endTimestamp": 1775130882868,
+    "startTimestamp": 1775130882726
+  },
+  {
+    "createdAt": 1775134016146,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 9,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 44,
+    "endTimestamp": 1775133993836,
+    "startTimestamp": 1775133993792
+  },
+  {
+    "createdAt": 1775131224868,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 24,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 118,
+    "endTimestamp": 1775131204859,
+    "startTimestamp": 1775131204741
+  },
+  {
+    "createdAt": 1775131143767,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 9,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 114,
+    "endTimestamp": 1775131117935,
+    "startTimestamp": 1775131117821
+  },
+  {
+    "createdAt": 1775131145912,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 18,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 117,
+    "endTimestamp": 1775131119495,
+    "startTimestamp": 1775131119378
+  },
+  {
+    "createdAt": 1775133987768,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 81,
+    "endTimestamp": 1775133964647,
+    "startTimestamp": 1775133964566
+  },
+  {
+    "createdAt": 1775133863257,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 119,
+    "endTimestamp": 1775133840560,
+    "startTimestamp": 1775133840441
+  },
+  {
+    "createdAt": 1775133820177,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 48,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 70,
+    "endTimestamp": 1775133770696,
+    "startTimestamp": 1775133770626
+  },
+  {
+    "createdAt": 1775131147562,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 25,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 131,
+    "endTimestamp": 1775131120776,
+    "startTimestamp": 1775131120645
+  },
+  {
+    "createdAt": 1775131140730,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 49,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 130,
+    "endTimestamp": 1775130883442,
+    "startTimestamp": 1775130883312
+  },
+  {
+    "createdAt": 1775131134093,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 23,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 138,
+    "endTimestamp": 1775130878613,
+    "startTimestamp": 1775130878475
+  },
+  {
+    "createdAt": 1775131219416,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 33,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131194022,
+    "startTimestamp": 1775131193936
+  },
+  {
+    "createdAt": 1775131217957,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 21,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131191823,
+    "startTimestamp": 1775131191721
+  },
+  {
+    "createdAt": 1775133822105,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 47,
+    "endTimestamp": 1775133775694,
+    "startTimestamp": 1775133775647
+  },
+  {
+    "createdAt": 1775131221171,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 45,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131196222,
+    "startTimestamp": 1775131196120
+  },
+  {
+    "createdAt": 1775131144468,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 12,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 112,
+    "endTimestamp": 1775131118446,
+    "startTimestamp": 1775131118334
+  },
+  {
+    "createdAt": 1775133914160,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 22,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 95,
+    "endTimestamp": 1775133889502,
+    "startTimestamp": 1775133889407
+  },
+  {
+    "createdAt": 1775131227628,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 50,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131210467,
+    "startTimestamp": 1775131210389
+  },
+  {
+    "createdAt": 1775133989679,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133965796,
+    "startTimestamp": 1775133965700
+  },
+  {
+    "createdAt": 1775131222876,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131201585,
+    "startTimestamp": 1775131201499
+  },
+  {
+    "createdAt": 1775131128088,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 129,
+    "endTimestamp": 1775130874809,
+    "startTimestamp": 1775130874680
+  },
+  {
+    "createdAt": 1775131219523,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 34,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 85,
+    "endTimestamp": 1775131194211,
+    "startTimestamp": 1775131194126
+  },
+  {
+    "createdAt": 1775131215343,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 1,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131188201,
+    "startTimestamp": 1775131188100
+  },
+  {
+    "createdAt": 1775131219305,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 32,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131193848,
+    "startTimestamp": 1775131193747
+  },
+  {
+    "createdAt": 1775131148999,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 31,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 126,
+    "endTimestamp": 1775131121837,
+    "startTimestamp": 1775131121711
+  },
+  {
+    "createdAt": 1775131215993,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 6,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131189133,
+    "startTimestamp": 1775131189031
+  },
+  {
+    "createdAt": 1775131144227,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 11,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 117,
+    "endTimestamp": 1775131118282,
+    "startTimestamp": 1775131118165
+  },
+  {
+    "createdAt": 1775131140192,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 47,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 115,
+    "endTimestamp": 1775130883046,
+    "startTimestamp": 1775130882931
+  },
+  {
+    "createdAt": 1775134016580,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 11,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 63,
+    "endTimestamp": 1775133994221,
+    "startTimestamp": 1775133994158
+  },
+  {
+    "createdAt": 1775131220475,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 41,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131195504,
+    "startTimestamp": 1775131195402
+  },
+  {
+    "createdAt": 1775131131058,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 113,
+    "endTimestamp": 1775130876760,
+    "startTimestamp": 1775130876647
+  },
+  {
+    "createdAt": 1775133814229,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 16,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 50,
+    "endTimestamp": 1775133764221,
+    "startTimestamp": 1775133764171
+  },
+  {
+    "createdAt": 1775131142526,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 4,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 147,
+    "endTimestamp": 1775131117050,
+    "startTimestamp": 1775131116903
+  },
+  {
+    "createdAt": 1775131226135,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 36,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 88,
+    "endTimestamp": 1775131207131,
+    "startTimestamp": 1775131207043
+  },
+  {
+    "createdAt": 1775133821646,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 57,
+    "endTimestamp": 1775133775020,
+    "startTimestamp": 1775133774963
+  },
+  {
+    "createdAt": 1775133825482,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 28,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 55,
+    "endTimestamp": 1775133780736,
+    "startTimestamp": 1775133780681
+  },
+  {
+    "createdAt": 1775133988063,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775133964830,
+    "startTimestamp": 1775133964751
+  },
+  {
+    "createdAt": 1775131223617,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131203006,
+    "startTimestamp": 1775131202912
+  },
+  {
+    "createdAt": 1775133873604,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 38,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775133847666,
+    "startTimestamp": 1775133847587
+  },
+  {
+    "createdAt": 1775133827897,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 42,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133783449,
+    "startTimestamp": 1775133783375
+  },
+  {
+    "createdAt": 1775131216657,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 11,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131189992,
+    "startTimestamp": 1775131189905
+  },
+  {
+    "createdAt": 1775133866420,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 46,
+    "endTimestamp": 1775133842915,
+    "startTimestamp": 1775133842869
+  },
+  {
+    "createdAt": 1775133824435,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 22,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133779217,
+    "startTimestamp": 1775133779152
+  },
+  {
+    "createdAt": 1775133869148,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 22,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133844548,
+    "startTimestamp": 1775133844452
+  },
+  {
+    "createdAt": 1775133798805,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 1,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133761414,
+    "startTimestamp": 1775133761332
+  },
+  {
+    "createdAt": 1775133819403,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 45,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133770063,
+    "startTimestamp": 1775133769981
+  },
+  {
+    "createdAt": 1775133871730,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 30,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133846082,
+    "startTimestamp": 1775133845986
+  },
+  {
+    "createdAt": 1775133870106,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 25,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133845132,
+    "startTimestamp": 1775133845036
+  },
+  {
+    "createdAt": 1775133986245,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775133963596,
+    "startTimestamp": 1775133963517
+  },
+  {
+    "createdAt": 1775131215867,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 5,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131188944,
+    "startTimestamp": 1775131188842
+  },
+  {
+    "createdAt": 1775131219963,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 38,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 109,
+    "endTimestamp": 1775131194968,
+    "startTimestamp": 1775131194859
+  },
+  {
+    "createdAt": 1775131223510,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131202816,
+    "startTimestamp": 1775131202714
+  },
+  {
+    "createdAt": 1775131147805,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 26,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131120943,
+    "startTimestamp": 1775131120841
+  },
+  {
+    "createdAt": 1775133821478,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 70,
+    "endTimestamp": 1775133774803,
+    "startTimestamp": 1775133774733
+  },
+  {
+    "createdAt": 1775133823841,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 18,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133778225,
+    "startTimestamp": 1775133778151
+  },
+  {
+    "createdAt": 1775133829255,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 50,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 67,
+    "endTimestamp": 1775133785027,
+    "startTimestamp": 1775133784960
+  },
+  {
+    "createdAt": 1775133817499,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 34,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 54,
+    "endTimestamp": 1775133767783,
+    "startTimestamp": 1775133767729
+  },
+  {
+    "createdAt": 1775131134656,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 25,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 133,
+    "endTimestamp": 1775130879000,
+    "startTimestamp": 1775130878867
+  },
+  {
+    "createdAt": 1775133815371,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 22,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 42,
+    "endTimestamp": 1775133765407,
+    "startTimestamp": 1775133765365
+  },
+  {
+    "createdAt": 1775131223722,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 88,
+    "endTimestamp": 1775131203180,
+    "startTimestamp": 1775131203092
+  },
+  {
+    "createdAt": 1775133988375,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775133965014,
+    "startTimestamp": 1775133964936
+  },
+  {
+    "createdAt": 1775131140485,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 48,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 141,
+    "endTimestamp": 1775130883253,
+    "startTimestamp": 1775130883112
+  },
+  {
+    "createdAt": 1775131217810,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 20,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 118,
+    "endTimestamp": 1775131191649,
+    "startTimestamp": 1775131191531
+  },
+  {
+    "createdAt": 1775131128368,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 105,
+    "endTimestamp": 1775130874975,
+    "startTimestamp": 1775130874870
+  },
+  {
+    "createdAt": 1775133821323,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133774569,
+    "startTimestamp": 1775133774489
+  },
+  {
+    "createdAt": 1775133814021,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 15,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 63,
+    "endTimestamp": 1775133764037,
+    "startTimestamp": 1775133763974
+  },
+  {
+    "createdAt": 1775133909664,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 78,
+    "endTimestamp": 1775133886185,
+    "startTimestamp": 1775133886107
+  },
+  {
+    "createdAt": 1775131218694,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 27,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131192950,
+    "startTimestamp": 1775131192863
+  },
+  {
+    "createdAt": 1775133818920,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 43,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 90,
+    "endTimestamp": 1775133769662,
+    "startTimestamp": 1775133769572
+  },
+  {
+    "createdAt": 1775133910146,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 79,
+    "endTimestamp": 1775133886519,
+    "startTimestamp": 1775133886440
+  },
+  {
+    "createdAt": 1775133818282,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 39,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 31,
+    "endTimestamp": 1775133768861,
+    "startTimestamp": 1775133768830
+  },
+  {
+    "createdAt": 1775133825701,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 29,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133780919,
+    "startTimestamp": 1775133780854
+  },
+  {
+    "createdAt": 1775131223933,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 17,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131203533,
+    "startTimestamp": 1775131203431
+  },
+  {
+    "createdAt": 1775131136489,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 32,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 134,
+    "endTimestamp": 1775130880300,
+    "startTimestamp": 1775130880166
+  },
+  {
+    "createdAt": 1775131148773,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 30,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 122,
+    "endTimestamp": 1775131121649,
+    "startTimestamp": 1775131121527
+  },
+  {
+    "createdAt": 1775133913553,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 20,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133889120,
+    "startTimestamp": 1775133889040
+  },
+  {
+    "createdAt": 1775133824134,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 20,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133778697,
+    "startTimestamp": 1775133778623
+  },
+  {
+    "createdAt": 1775133910291,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133886686,
+    "startTimestamp": 1775133886606
+  },
+  {
+    "createdAt": 1775131219736,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 36,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131194590,
+    "startTimestamp": 1775131194496
+  },
+  {
+    "createdAt": 1775131131517,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 125,
+    "endTimestamp": 1775130877148,
+    "startTimestamp": 1775130877023
+  },
+  {
+    "createdAt": 1775133867070,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133843298,
+    "startTimestamp": 1775133843203
+  },
+  {
+    "createdAt": 1775133865308,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133842281,
+    "startTimestamp": 1775133842185
+  },
+  {
+    "createdAt": 1775131150865,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 38,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 107,
+    "endTimestamp": 1775131123079,
+    "startTimestamp": 1775131122972
+  },
+  {
+    "createdAt": 1775133817334,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 33,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 63,
+    "endTimestamp": 1775133767564,
+    "startTimestamp": 1775133767501
+  },
+  {
+    "createdAt": 1775131139727,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 45,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 114,
+    "endTimestamp": 1775130882662,
+    "startTimestamp": 1775130882548
+  },
+  {
+    "createdAt": 1775131150338,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 36,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 111,
+    "endTimestamp": 1775131122719,
+    "startTimestamp": 1775131122608
+  },
+  {
+    "createdAt": 1775133987594,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 63,
+    "endTimestamp": 1775133964463,
+    "startTimestamp": 1775133964400
+  },
+  {
+    "createdAt": 1775131143530,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 8,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 108,
+    "endTimestamp": 1775131117759,
+    "startTimestamp": 1775131117651
+  },
+  {
+    "createdAt": 1775131146365,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 20,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 104,
+    "endTimestamp": 1775131119874,
+    "startTimestamp": 1775131119770
+  },
+  {
+    "createdAt": 1775131136201,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 31,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 113,
+    "endTimestamp": 1775130880103,
+    "startTimestamp": 1775130879990
+  },
+  {
+    "createdAt": 1775131135441,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 28,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 120,
+    "endTimestamp": 1775130879560,
+    "startTimestamp": 1775130879440
+  },
+  {
+    "createdAt": 1775133868987,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 21,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 97,
+    "endTimestamp": 1775133844349,
+    "startTimestamp": 1775133844252
+  },
+  {
+    "createdAt": 1775131130801,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 157,
+    "endTimestamp": 1775130876583,
+    "startTimestamp": 1775130876426
+  },
+  {
+    "createdAt": 1775133826205,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 32,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 90,
+    "endTimestamp": 1775133781486,
+    "startTimestamp": 1775133781396
+  },
+  {
+    "createdAt": 1775131151108,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 39,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 123,
+    "endTimestamp": 1775131123257,
+    "startTimestamp": 1775131123134
+  },
+  {
+    "createdAt": 1775133828512,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 45,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 71,
+    "endTimestamp": 1775133784041,
+    "startTimestamp": 1775133783970
+  },
+  {
+    "createdAt": 1775131219182,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 31,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131193675,
+    "startTimestamp": 1775131193573
+  },
+  {
+    "createdAt": 1775134014176,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 2,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 28,
+    "endTimestamp": 1775133992536,
+    "startTimestamp": 1775133992508
+  },
+  {
+    "createdAt": 1775133824598,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 23,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 81,
+    "endTimestamp": 1775133779500,
+    "startTimestamp": 1775133779419
+  },
+  {
+    "createdAt": 1775131217034,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 14,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131190544,
+    "startTimestamp": 1775131190458
+  },
+  {
+    "createdAt": 1775131145693,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 17,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 121,
+    "endTimestamp": 1775131119313,
+    "startTimestamp": 1775131119192
+  },
+  {
+    "createdAt": 1775131141681,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 1,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 150,
+    "endTimestamp": 1775131116507,
+    "startTimestamp": 1775131116357
+  },
+  {
+    "createdAt": 1775131215733,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 4,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131188770,
+    "startTimestamp": 1775131188667
+  },
+  {
+    "createdAt": 1775131223826,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 93,
+    "endTimestamp": 1775131203368,
+    "startTimestamp": 1775131203275
+  },
+  {
+    "createdAt": 1775133816432,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 28,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133766608,
+    "startTimestamp": 1775133766543
+  },
+  {
+    "createdAt": 1775131142009,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 2,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 136,
+    "endTimestamp": 1775131116714,
+    "startTimestamp": 1775131116578
+  },
+  {
+    "createdAt": 1775131148543,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 29,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 114,
+    "endTimestamp": 1775131121471,
+    "startTimestamp": 1775131121357
+  },
+  {
+    "createdAt": 1775133872357,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 32,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 81,
+    "endTimestamp": 1775133846517,
+    "startTimestamp": 1775133846436
+  },
+  {
+    "createdAt": 1775133989362,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133965580,
+    "startTimestamp": 1775133965484
+  },
+  {
+    "createdAt": 1775133990319,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133966180,
+    "startTimestamp": 1775133966100
+  },
+  {
+    "createdAt": 1775131225604,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 31,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131206208,
+    "startTimestamp": 1775131206121
+  },
+  {
+    "createdAt": 1775131224748,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 23,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 110,
+    "endTimestamp": 1775131204677,
+    "startTimestamp": 1775131204567
+  },
+  {
+    "createdAt": 1775131145463,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 16,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 92,
+    "endTimestamp": 1775131119128,
+    "startTimestamp": 1775131119036
+  },
+  {
+    "createdAt": 1775133914524,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 24,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133889870,
+    "startTimestamp": 1775133889790
+  },
+  {
+    "createdAt": 1775131224645,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 22,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 109,
+    "endTimestamp": 1775131204488,
+    "startTimestamp": 1775131204379
+  },
+  {
+    "createdAt": 1775131130466,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 140,
+    "endTimestamp": 1775130876364,
+    "startTimestamp": 1775130876224
+  },
+  {
+    "createdAt": 1775133865493,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 46,
+    "endTimestamp": 1775133842431,
+    "startTimestamp": 1775133842385
+  },
+  {
+    "createdAt": 1775133914702,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 25,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 112,
+    "endTimestamp": 1775133890086,
+    "startTimestamp": 1775133889974
+  },
+  {
+    "createdAt": 1775133912869,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 17,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 79,
+    "endTimestamp": 1775133888553,
+    "startTimestamp": 1775133888474
+  },
+  {
+    "createdAt": 1775131224271,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 20,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131204086,
+    "startTimestamp": 1775131203983
+  },
+  {
+    "createdAt": 1775131217587,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 18,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131191270,
+    "startTimestamp": 1775131191169
+  },
+  {
+    "createdAt": 1775131217274,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 16,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131190907,
+    "startTimestamp": 1775131190820
+  },
+  {
+    "createdAt": 1775133912536,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 96,
+    "endTimestamp": 1775133888369,
+    "startTimestamp": 1775133888273
+  },
+  {
+    "createdAt": 1775131132568,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 18,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 112,
+    "endTimestamp": 1775130877690,
+    "startTimestamp": 1775130877578
+  },
+  {
+    "createdAt": 1775131222071,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 50,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131197113,
+    "startTimestamp": 1775131197019
+  },
+  {
+    "createdAt": 1775133823538,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 71,
+    "endTimestamp": 1775133777724,
+    "startTimestamp": 1775133777653
+  },
+  {
+    "createdAt": 1775131138995,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 42,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 130,
+    "endTimestamp": 1775130882113,
+    "startTimestamp": 1775130881983
+  },
+  {
+    "createdAt": 1775133816582,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 29,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133766789,
+    "startTimestamp": 1775133766716
+  },
+  {
+    "createdAt": 1775131134915,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 26,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 127,
+    "endTimestamp": 1775130879186,
+    "startTimestamp": 1775130879059
+  },
+  {
+    "createdAt": 1775131224976,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 25,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131205047,
+    "startTimestamp": 1775131204945
+  },
+  {
+    "createdAt": 1775133811802,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 6,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 56,
+    "endTimestamp": 1775133762376,
+    "startTimestamp": 1775133762320
+  },
+  {
+    "createdAt": 1775131227106,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 45,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 70,
+    "endTimestamp": 1775131208951,
+    "startTimestamp": 1775131208881
+  },
+  {
+    "createdAt": 1775131142287,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 3,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 62,
+    "endTimestamp": 1775131116841,
+    "startTimestamp": 1775131116779
+  },
+  {
+    "createdAt": 1775131131913,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 126,
+    "endTimestamp": 1775130877335,
+    "startTimestamp": 1775130877209
+  },
+  {
+    "createdAt": 1775133873319,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 36,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 63,
+    "endTimestamp": 1775133847266,
+    "startTimestamp": 1775133847203
+  },
+  {
+    "createdAt": 1775131227521,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 49,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131210293,
+    "startTimestamp": 1775131210215
+  },
+  {
+    "createdAt": 1775133872997,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 34,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133846915,
+    "startTimestamp": 1775133846820
+  },
+  {
+    "createdAt": 1775133987099,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 62,
+    "endTimestamp": 1775133964112,
+    "startTimestamp": 1775133964050
+  },
+  {
+    "createdAt": 1775131145238,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 15,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 130,
+    "endTimestamp": 1775131118963,
+    "startTimestamp": 1775131118833
+  },
+  {
+    "createdAt": 1775133864977,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 64,
+    "endTimestamp": 1775133841882,
+    "startTimestamp": 1775133841818
+  },
+  {
+    "createdAt": 1775131226679,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 41,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 71,
+    "endTimestamp": 1775131208219,
+    "startTimestamp": 1775131208148
+  },
+  {
+    "createdAt": 1775133828815,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 47,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 75,
+    "endTimestamp": 1775133784422,
+    "startTimestamp": 1775133784347
+  },
+  {
+    "createdAt": 1775134014362,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 3,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133992736,
+    "startTimestamp": 1775133992690
+  },
+  {
+    "createdAt": 1775131152335,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 44,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 98,
+    "endTimestamp": 1775131124163,
+    "startTimestamp": 1775131124065
+  },
+  {
+    "createdAt": 1775133826361,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 33,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133781670,
+    "startTimestamp": 1775133781596
+  },
+  {
+    "createdAt": 1775131225191,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 27,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131205443,
+    "startTimestamp": 1775131205341
+  },
+  {
+    "createdAt": 1775133819209,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 44,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133769862,
+    "startTimestamp": 1775133769789
+  },
+  {
+    "createdAt": 1775133868706,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 20,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133844165,
+    "startTimestamp": 1775133844085
+  },
+  {
+    "createdAt": 1775133872680,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 33,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 112,
+    "endTimestamp": 1775133846732,
+    "startTimestamp": 1775133846620
+  },
+  {
+    "createdAt": 1775131226896,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 43,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131208597,
+    "startTimestamp": 1775131208511
+  },
+  {
+    "createdAt": 1775133821003,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 50,
+    "endTimestamp": 1775133774303,
+    "startTimestamp": 1775133774253
+  },
+  {
+    "createdAt": 1775133817127,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 32,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 58,
+    "endTimestamp": 1775133767357,
+    "startTimestamp": 1775133767299
+  },
+  {
+    "createdAt": 1775131131287,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 133,
+    "endTimestamp": 1775130876958,
+    "startTimestamp": 1775130876825
+  },
+  {
+    "createdAt": 1775131220672,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 42,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131195669,
+    "startTimestamp": 1775131195568
+  },
+  {
+    "createdAt": 1775133909888,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 96,
+    "endTimestamp": 1775133886369,
+    "startTimestamp": 1775133886273
+  },
+  {
+    "createdAt": 1775133819703,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 46,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 38,
+    "endTimestamp": 1775133770244,
+    "startTimestamp": 1775133770206
+  },
+  {
+    "createdAt": 1775133915212,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 28,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 81,
+    "endTimestamp": 1775133890654,
+    "startTimestamp": 1775133890573
+  },
+  {
+    "createdAt": 1775133869415,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 23,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133844732,
+    "startTimestamp": 1775133844652
+  },
+  {
+    "createdAt": 1775131138752,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 41,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775130881912,
+    "startTimestamp": 1775130881825
+  },
+  {
+    "createdAt": 1775131153530,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 49,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 133,
+    "endTimestamp": 1775131125048,
+    "startTimestamp": 1775131124915
+  },
+  {
+    "createdAt": 1775133864756,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133841715,
+    "startTimestamp": 1775133841635
+  },
+  {
+    "createdAt": 1775133913832,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 21,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133889287,
+    "startTimestamp": 1775133889207
+  },
+  {
+    "createdAt": 1775131226337,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 38,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 70,
+    "endTimestamp": 1775131207477,
+    "startTimestamp": 1775131207407
+  },
+  {
+    "createdAt": 1775131219862,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 37,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131194779,
+    "startTimestamp": 1775131194677
+  },
+  {
+    "createdAt": 1775133814925,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 19,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 39,
+    "endTimestamp": 1775133764813,
+    "startTimestamp": 1775133764774
+  },
+  {
+    "createdAt": 1775131216172,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 7,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 93,
+    "endTimestamp": 1775131189290,
+    "startTimestamp": 1775131189197
+  },
+  {
+    "createdAt": 1775133910595,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 79,
+    "endTimestamp": 1775133887052,
+    "startTimestamp": 1775133886973
+  },
+  {
+    "createdAt": 1775133815748,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 24,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 58,
+    "endTimestamp": 1775133765764,
+    "startTimestamp": 1775133765706
+  },
+  {
+    "createdAt": 1775131147313,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 24,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 117,
+    "endTimestamp": 1775131120580,
+    "startTimestamp": 1775131120463
+  },
+  {
+    "createdAt": 1775131223404,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131202438,
+    "startTimestamp": 1775131202351
+  },
+  {
+    "createdAt": 1775133822955,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 54,
+    "endTimestamp": 1775133776947,
+    "startTimestamp": 1775133776893
+  },
+  {
+    "createdAt": 1775131224033,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 18,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131203722,
+    "startTimestamp": 1775131203621
+  },
+  {
+    "createdAt": 1775133818130,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 38,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 64,
+    "endTimestamp": 1775133768676,
+    "startTimestamp": 1775133768612
+  },
+  {
+    "createdAt": 1775133818748,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 42,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133769452,
+    "startTimestamp": 1775133769379
+  },
+  {
+    "createdAt": 1775133813455,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 12,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 83,
+    "endTimestamp": 1775133763487,
+    "startTimestamp": 1775133763404
+  },
+  {
+    "createdAt": 1775131129706,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 141,
+    "endTimestamp": 1775130875974,
+    "startTimestamp": 1775130875833
+  },
+  {
+    "createdAt": 1775131133799,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 22,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 99,
+    "endTimestamp": 1775130878417,
+    "startTimestamp": 1775130878318
+  },
+  {
+    "createdAt": 1775133823377,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 90,
+    "endTimestamp": 1775133777497,
+    "startTimestamp": 1775133777407
+  },
+  {
+    "createdAt": 1775131221279,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 46,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131196388,
+    "startTimestamp": 1775131196294
+  },
+  {
+    "createdAt": 1775133812998,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 10,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133763118,
+    "startTimestamp": 1775133763045
+  },
+  {
+    "createdAt": 1775131216293,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 8,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775131189472,
+    "startTimestamp": 1775131189377
+  },
+  {
+    "createdAt": 1775131220171,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 39,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775131195150,
+    "startTimestamp": 1775131195054
+  },
+  {
+    "createdAt": 1775131149565,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 33,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 129,
+    "endTimestamp": 1775131122202,
+    "startTimestamp": 1775131122073
+  },
+  {
+    "createdAt": 1775131137765,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 37,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 122,
+    "endTimestamp": 1775130881207,
+    "startTimestamp": 1775130881085
+  },
+  {
+    "createdAt": 1775131227215,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 46,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131209133,
+    "startTimestamp": 1775131209055
+  },
+  {
+    "createdAt": 1775133870736,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 27,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 97,
+    "endTimestamp": 1775133845515,
+    "startTimestamp": 1775133845418
+  },
+  {
+    "createdAt": 1775131138277,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 39,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 116,
+    "endTimestamp": 1775130881550,
+    "startTimestamp": 1775130881434
+  },
+  {
+    "createdAt": 1775133826035,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 31,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 56,
+    "endTimestamp": 1775133781295,
+    "startTimestamp": 1775133781239
+  },
+  {
+    "createdAt": 1775133911256,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 79,
+    "endTimestamp": 1775133887619,
+    "startTimestamp": 1775133887540
+  },
+  {
+    "createdAt": 1775131227424,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 48,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 85,
+    "endTimestamp": 1775131209732,
+    "startTimestamp": 1775131209647
+  },
+  {
+    "createdAt": 1775131217705,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 19,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 110,
+    "endTimestamp": 1775131191452,
+    "startTimestamp": 1775131191342
+  },
+  {
+    "createdAt": 1775131151816,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 42,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 145,
+    "endTimestamp": 1775131123816,
+    "startTimestamp": 1775131123671
+  },
+  {
+    "createdAt": 1775133817967,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 37,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 55,
+    "endTimestamp": 1775133768442,
+    "startTimestamp": 1775133768387
+  },
+  {
+    "createdAt": 1775131144968,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 14,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 109,
+    "endTimestamp": 1775131118771,
+    "startTimestamp": 1775131118662
+  },
+  {
+    "createdAt": 1775130411573,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 1,
+    "sessionId": "test_render",
+    "devicePlatform": "PC",
+    "durationMs": 200,
+    "endTimestamp": 1711951000200,
+    "startTimestamp": 1711951000000
+  },
+  {
+    "createdAt": 1775133822481,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133776196,
+    "startTimestamp": 1775133776122
+  },
+  {
+    "createdAt": 1775131221774,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 48,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131196759,
+    "startTimestamp": 1775131196657
+  },
+  {
+    "createdAt": 1775133827749,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 41,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133783248,
+    "startTimestamp": 1775133783174
+  },
+  {
+    "createdAt": 1775133810503,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 2,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133761640,
+    "startTimestamp": 1775133761558
+  },
+  {
+    "createdAt": 1775131227002,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 44,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 77,
+    "endTimestamp": 1775131208778,
+    "startTimestamp": 1775131208701
+  },
+  {
+    "createdAt": 1775133871437,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 29,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 62,
+    "endTimestamp": 1775133845865,
+    "startTimestamp": 1775133845803
+  },
+  {
+    "createdAt": 1775133985922,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775133963379,
+    "startTimestamp": 1775133963301
+  },
+  {
+    "createdAt": 1775133915030,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 27,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133890470,
+    "startTimestamp": 1775133890390
+  },
+  {
+    "createdAt": 1775131141391,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 50,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 115,
+    "endTimestamp": 1775130883619,
+    "startTimestamp": 1775130883504
+  },
+  {
+    "createdAt": 1775131153757,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 50,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 118,
+    "endTimestamp": 1775131125229,
+    "startTimestamp": 1775131125111
+  },
+  {
+    "createdAt": 1775133914352,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 23,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133889687,
+    "startTimestamp": 1775133889607
+  },
+  {
+    "createdAt": 1775133865651,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 63,
+    "endTimestamp": 1775133842615,
+    "startTimestamp": 1775133842552
+  },
+  {
+    "createdAt": 1775133817641,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 35,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 55,
+    "endTimestamp": 1775133767993,
+    "startTimestamp": 1775133767938
+  },
+  {
+    "createdAt": 1775131223195,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775131202090,
+    "startTimestamp": 1775131202011
+  },
+  {
+    "createdAt": 1775131218293,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 24,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 111,
+    "endTimestamp": 1775131192374,
+    "startTimestamp": 1775131192263
+  },
+  {
+    "createdAt": 1775133909051,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 94,
+    "endTimestamp": 1775133885835,
+    "startTimestamp": 1775133885741
+  },
+  {
+    "createdAt": 1775131133311,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 20,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 124,
+    "endTimestamp": 1775130878052,
+    "startTimestamp": 1775130877928
+  },
+  {
+    "createdAt": 1775133820536,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 50,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 73,
+    "endTimestamp": 1775133771130,
+    "startTimestamp": 1775133771057
+  },
+  {
+    "createdAt": 1775131227316,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 47,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775131209338,
+    "startTimestamp": 1775131209243
+  },
+  {
+    "createdAt": 1775131143996,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 10,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 110,
+    "endTimestamp": 1775131118102,
+    "startTimestamp": 1775131117992
+  },
+  {
+    "createdAt": 1775133867691,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 17,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 60,
+    "endTimestamp": 1775133843614,
+    "startTimestamp": 1775133843554
+  },
+  {
+    "createdAt": 1775131222680,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 94,
+    "endTimestamp": 1775131201215,
+    "startTimestamp": 1775131201121
+  },
+  {
+    "createdAt": 1775131147074,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 23,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131120408,
+    "startTimestamp": 1775131120330
+  },
+  {
+    "createdAt": 1775133825851,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 30,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 66,
+    "endTimestamp": 1775133781095,
+    "startTimestamp": 1775133781029
+  },
+  {
+    "createdAt": 1775131220272,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 40,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131195341,
+    "startTimestamp": 1775131195238
+  },
+  {
+    "createdAt": 1775134015632,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 7,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133993486,
+    "startTimestamp": 1775133993440
+  },
+  {
+    "createdAt": 1775133814574,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 17,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 40,
+    "endTimestamp": 1775133764411,
+    "startTimestamp": 1775133764371
+  },
+  {
+    "createdAt": 1775133827060,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 37,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133782454,
+    "startTimestamp": 1775133782380
+  },
+  {
+    "createdAt": 1775131135887,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 30,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 99,
+    "endTimestamp": 1775130879922,
+    "startTimestamp": 1775130879823
+  },
+  {
+    "createdAt": 1775133988703,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133965197,
+    "startTimestamp": 1775133965117
+  },
+  {
+    "createdAt": 1775131152073,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 43,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 115,
+    "endTimestamp": 1775131123993,
+    "startTimestamp": 1775131123878
+  },
+  {
+    "createdAt": 1775133913186,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 19,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 63,
+    "endTimestamp": 1775133888920,
+    "startTimestamp": 1775133888857
+  },
+  {
+    "createdAt": 1775131226235,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 37,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 85,
+    "endTimestamp": 1775131207320,
+    "startTimestamp": 1775131207235
+  },
+  {
+    "createdAt": 1775133867377,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 16,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 98,
+    "endTimestamp": 1775133843482,
+    "startTimestamp": 1775133843384
+  },
+  {
+    "createdAt": 1775133816037,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 26,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133766181,
+    "startTimestamp": 1775133766135
+  },
+  {
+    "createdAt": 1775131223080,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 9,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 71,
+    "endTimestamp": 1775131201916,
+    "startTimestamp": 1775131201845
+  },
+  {
+    "createdAt": 1775131225298,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 28,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 111,
+    "endTimestamp": 1775131205648,
+    "startTimestamp": 1775131205537
+  },
+  {
+    "createdAt": 1775131142980,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 6,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 131,
+    "endTimestamp": 1775131117423,
+    "startTimestamp": 1775131117292
+  },
+  {
+    "createdAt": 1775133828667,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 46,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 75,
+    "endTimestamp": 1775133784223,
+    "startTimestamp": 1775133784148
+  },
+  {
+    "createdAt": 1775133812615,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 8,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 53,
+    "endTimestamp": 1775133762742,
+    "startTimestamp": 1775133762689
+  },
+  {
+    "createdAt": 1775133828363,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 44,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 83,
+    "endTimestamp": 1775133783874,
+    "startTimestamp": 1775133783791
+  },
+  {
+    "createdAt": 1775133813646,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 13,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133763677,
+    "startTimestamp": 1775133763595
+  },
+  {
+    "createdAt": 1775133911890,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 96,
+    "endTimestamp": 1775133888002,
+    "startTimestamp": 1775133887906
+  },
+  {
+    "createdAt": 1775134014988,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 5,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133993120,
+    "startTimestamp": 1775133993074
+  },
+  {
+    "createdAt": 1775131222361,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131200678,
+    "startTimestamp": 1775131200577
+  },
+  {
+    "createdAt": 1775133864458,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133841531,
+    "startTimestamp": 1775133841435
+  },
+  {
+    "createdAt": 1775131128640,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 5,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 114,
+    "endTimestamp": 1775130875165,
+    "startTimestamp": 1775130875051
+  },
+  {
+    "createdAt": 1775131143285,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 7,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 113,
+    "endTimestamp": 1775131117592,
+    "startTimestamp": 1775131117479
+  },
+  {
+    "createdAt": 1775133871077,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 28,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133845698,
+    "startTimestamp": 1775133845603
+  },
+  {
+    "createdAt": 1775131225080,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 26,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 124,
+    "endTimestamp": 1775131205260,
+    "startTimestamp": 1775131205136
+  },
+  {
+    "createdAt": 1775133987414,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 81,
+    "endTimestamp": 1775133964296,
+    "startTimestamp": 1775133964215
+  },
+  {
+    "createdAt": 1775131151348,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 40,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 137,
+    "endTimestamp": 1775131123456,
+    "startTimestamp": 1775131123319
+  },
+  {
+    "createdAt": 1775133911576,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 13,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 95,
+    "endTimestamp": 1775133887819,
+    "startTimestamp": 1775133887724
+  },
+  {
+    "createdAt": 1775133910934,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 10,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 112,
+    "endTimestamp": 1775133887269,
+    "startTimestamp": 1775133887157
+  },
+  {
+    "createdAt": 1775131217153,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 15,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131190717,
+    "startTimestamp": 1775131190631
+  },
+  {
+    "createdAt": 1775133822624,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133776455,
+    "startTimestamp": 1775133776381
+  },
+  {
+    "createdAt": 1775133815515,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 23,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 55,
+    "endTimestamp": 1775133765596,
+    "startTimestamp": 1775133765541
+  },
+  {
+    "createdAt": 1775131136975,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 34,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775130880643,
+    "startTimestamp": 1775130880548
+  },
+  {
+    "createdAt": 1775131224470,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 21,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131204259,
+    "startTimestamp": 1775131204158
+  },
+  {
+    "createdAt": 1775134015964,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 8,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 62,
+    "endTimestamp": 1775133993670,
+    "startTimestamp": 1775133993608
+  },
+  {
+    "createdAt": 1775134014531,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 4,
+    "sessionId": "17751339904785",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133992920,
+    "startTimestamp": 1775133992874
+  },
+  {
+    "createdAt": 1775131217469,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 17,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131191095,
+    "startTimestamp": 1775131190994
+  },
+  {
+    "createdAt": 1775131225822,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 33,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 79,
+    "endTimestamp": 1775131206563,
+    "startTimestamp": 1775131206484
+  },
+  {
+    "createdAt": 1775131225707,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 32,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 78,
+    "endTimestamp": 1775131206380,
+    "startTimestamp": 1775131206302
+  },
+  {
+    "createdAt": 1775133988946,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 12,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133965380,
+    "startTimestamp": 1775133965300
+  },
+  {
+    "createdAt": 1775133914854,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 26,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 95,
+    "endTimestamp": 1775133890286,
+    "startTimestamp": 1775133890191
+  },
+  {
+    "createdAt": 1775133873467,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 37,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133847466,
+    "startTimestamp": 1775133847386
+  },
+  {
+    "createdAt": 1775131216545,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 10,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131189818,
+    "startTimestamp": 1775131189732
+  },
+  {
+    "createdAt": 1775133812840,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 9,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 41,
+    "endTimestamp": 1775133762935,
+    "startTimestamp": 1775133762894
+  },
+  {
+    "createdAt": 1775131222576,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 4,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131201041,
+    "startTimestamp": 1775131200954
+  },
+  {
+    "createdAt": 1775133818436,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 40,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 48,
+    "endTimestamp": 1775133769069,
+    "startTimestamp": 1775133769021
+  },
+  {
+    "createdAt": 1775133869776,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 24,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133844932,
+    "startTimestamp": 1775133844836
+  },
+  {
+    "createdAt": 1775133815886,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 25,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 46,
+    "endTimestamp": 1775133765964,
+    "startTimestamp": 1775133765918
+  },
+  {
+    "createdAt": 1775133816747,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 30,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133766964,
+    "startTimestamp": 1775133766890
+  },
+  {
+    "createdAt": 1775131146600,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 21,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 114,
+    "endTimestamp": 1775131120056,
+    "startTimestamp": 1775131119942
+  },
+  {
+    "createdAt": 1775131226471,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 39,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131207667,
+    "startTimestamp": 1775131207580
+  },
+  {
+    "createdAt": 1775131216925,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 13,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131190370,
+    "startTimestamp": 1775131190284
+  },
+  {
+    "createdAt": 1775133828964,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 48,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 77,
+    "endTimestamp": 1775133784616,
+    "startTimestamp": 1775133784539
+  },
+  {
+    "createdAt": 1775133865154,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 113,
+    "endTimestamp": 1775133842098,
+    "startTimestamp": 1775133841985
+  },
+  {
+    "createdAt": 1775133910439,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177513388314339",
+    "devicePlatform": "PC",
+    "durationMs": 79,
+    "endTimestamp": 1775133886869,
+    "startTimestamp": 1775133886790
+  },
+  {
+    "createdAt": 1775133817811,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 36,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 40,
+    "endTimestamp": 1775133768210,
+    "startTimestamp": 1775133768170
+  },
+  {
+    "createdAt": 1775133826522,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 34,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 83,
+    "endTimestamp": 1775133781863,
+    "startTimestamp": 1775133781780
+  },
+  {
+    "createdAt": 1775131226028,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 35,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 101,
+    "endTimestamp": 1775131206940,
+    "startTimestamp": 1775131206839
+  },
+  {
+    "createdAt": 1775133820702,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 32,
+    "endTimestamp": 1775133774086,
+    "startTimestamp": 1775133774054
+  },
+  {
+    "createdAt": 1775131128917,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 144,
+    "endTimestamp": 1775130875372,
+    "startTimestamp": 1775130875228
+  },
+  {
+    "createdAt": 1775131153066,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 47,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 124,
+    "endTimestamp": 1775131124694,
+    "startTimestamp": 1775131124570
+  },
+  {
+    "createdAt": 1775131146134,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 19,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 136,
+    "endTimestamp": 1775131119702,
+    "startTimestamp": 1775131119566
+  },
+  {
+    "createdAt": 1775131149792,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 34,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 111,
+    "endTimestamp": 1775131122381,
+    "startTimestamp": 1775131122270
+  },
+  {
+    "createdAt": 1775133813858,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 14,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 74,
+    "endTimestamp": 1775133763853,
+    "startTimestamp": 1775133763779
+  },
+  {
+    "createdAt": 1775131138518,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 40,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 146,
+    "endTimestamp": 1775130881758,
+    "startTimestamp": 1775130881612
+  },
+  {
+    "createdAt": 1775131215609,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 3,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 110,
+    "endTimestamp": 1775131188588,
+    "startTimestamp": 1775131188478
+  },
+  {
+    "createdAt": 1775131135204,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 27,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 120,
+    "endTimestamp": 1775130879370,
+    "startTimestamp": 1775130879250
+  },
+  {
+    "createdAt": 1775133873150,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 35,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133847099,
+    "startTimestamp": 1775133847003
+  },
+  {
+    "createdAt": 1775131127824,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 2,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 109,
+    "endTimestamp": 1775130874621,
+    "startTimestamp": 1775130874512
+  },
+  {
+    "createdAt": 1775133827607,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 40,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 75,
+    "endTimestamp": 1775133783040,
+    "startTimestamp": 1775133782965
+  },
+  {
+    "createdAt": 1775131129466,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 8,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 137,
+    "endTimestamp": 1775130875763,
+    "startTimestamp": 1775130875626
+  },
+  {
+    "createdAt": 1775133986455,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 80,
+    "endTimestamp": 1775133963779,
+    "startTimestamp": 1775133963699
+  },
+  {
+    "createdAt": 1775133816204,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 27,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 36,
+    "endTimestamp": 1775133766398,
+    "startTimestamp": 1775133766362
+  },
+  {
+    "createdAt": 1775131149249,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 32,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 105,
+    "endTimestamp": 1775131122015,
+    "startTimestamp": 1775131121910
+  },
+  {
+    "createdAt": 1775133818586,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 41,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133769260,
+    "startTimestamp": 1775133769195
+  },
+  {
+    "createdAt": 1775133824773,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 24,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 66,
+    "endTimestamp": 1775133779743,
+    "startTimestamp": 1775133779677
+  },
+  {
+    "createdAt": 1775133820400,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 49,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 78,
+    "endTimestamp": 1775133770921,
+    "startTimestamp": 1775133770843
+  },
+  {
+    "createdAt": 1775133812203,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 7,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133762568,
+    "startTimestamp": 1775133762486
+  },
+  {
+    "createdAt": 1775131218579,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 26,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 107,
+    "endTimestamp": 1775131192749,
+    "startTimestamp": 1775131192642
+  },
+  {
+    "createdAt": 1775131225499,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 30,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 118,
+    "endTimestamp": 1775131206034,
+    "startTimestamp": 1775131205916
+  },
+  {
+    "createdAt": 1775133863690,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 3,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 95,
+    "endTimestamp": 1775133841115,
+    "startTimestamp": 1775133841020
+  },
+  {
+    "createdAt": 1775131148074,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 27,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 125,
+    "endTimestamp": 1775131121121,
+    "startTimestamp": 1775131120996
+  },
+  {
+    "createdAt": 1775133823988,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 19,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 77,
+    "endTimestamp": 1775133778475,
+    "startTimestamp": 1775133778398
+  },
+  {
+    "createdAt": 1775131144720,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 13,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 98,
+    "endTimestamp": 1775131118603,
+    "startTimestamp": 1775131118505
+  },
+  {
+    "createdAt": 1775133828115,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 43,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 82,
+    "endTimestamp": 1775133783673,
+    "startTimestamp": 1775133783591
+  },
+  {
+    "createdAt": 1775131222254,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 1,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131200505,
+    "startTimestamp": 1775131200402
+  },
+  {
+    "createdAt": 1775131221573,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 47,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 103,
+    "endTimestamp": 1775131196586,
+    "startTimestamp": 1775131196483
+  },
+  {
+    "createdAt": 1775131151579,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 41,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 105,
+    "endTimestamp": 1775131123611,
+    "startTimestamp": 1775131123506
+  },
+  {
+    "createdAt": 1775133815075,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 20,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 65,
+    "endTimestamp": 1775133765022,
+    "startTimestamp": 1775133764957
+  },
+  {
+    "createdAt": 1775133825143,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 26,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 80,
+    "endTimestamp": 1775133780267,
+    "startTimestamp": 1775133780187
+  },
+  {
+    "createdAt": 1775133866734,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 63,
+    "endTimestamp": 1775133843098,
+    "startTimestamp": 1775133843035
+  },
+  {
+    "createdAt": 1775133826682,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 35,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 76,
+    "endTimestamp": 1775133782065,
+    "startTimestamp": 1775133781989
+  },
+  {
+    "createdAt": 1775133821946,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 7,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 57,
+    "endTimestamp": 1775133775461,
+    "startTimestamp": 1775133775404
+  },
+  {
+    "createdAt": 1775133823142,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 14,
+    "sessionId": "177513375967019",
+    "devicePlatform": "PC",
+    "durationMs": 53,
+    "endTimestamp": 1775133777214,
+    "startTimestamp": 1775133777161
+  },
+  {
+    "createdAt": 1775131223303,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 11,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 87,
+    "endTimestamp": 1775131202263,
+    "startTimestamp": 1775131202176
+  },
+  {
+    "createdAt": 1775131219069,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 30,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 86,
+    "endTimestamp": 1775131193485,
+    "startTimestamp": 1775131193399
+  },
+  {
+    "createdAt": 1775133872030,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 31,
+    "sessionId": "177513383819524",
+    "devicePlatform": "ANDROID",
+    "durationMs": 112,
+    "endTimestamp": 1775133846298,
+    "startTimestamp": 1775133846186
+  },
+  {
+    "createdAt": 1775133990003,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 15,
+    "sessionId": "177513396053331",
+    "devicePlatform": "ANDROID",
+    "durationMs": 96,
+    "endTimestamp": 1775133965979,
+    "startTimestamp": 1775133965883
+  },
+  {
+    "createdAt": 1775131222776,
+    "interfaceType": "nofeedback",
+    "sequenceNumber": 6,
+    "sessionId": "177513118561621",
+    "devicePlatform": "ANDROID",
+    "durationMs": 102,
+    "endTimestamp": 1775131201404,
+    "startTimestamp": 1775131201302
+  },
+  {
+    "createdAt": 1775131150621,
+    "interfaceType": "feedbackshown",
+    "sequenceNumber": 37,
+    "sessionId": "177511898513533",
+    "devicePlatform": "ANDROID",
+    "durationMs": 124,
+    "endTimestamp": 1775131122909,
+    "startTimestamp": 1775131122785
+  }
+]
